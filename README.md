@@ -47,3 +47,13 @@ Use Case Diagrams visually represent the interactions between users (actors) and
 Below is the Use Case Diagram for the booking system:
 
 ![Use Case Diagram](alx-booking-uc.png)
+
+
+## Acceptance Criteria
+
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+
+Acceptance criteria is defined by the following:
+- Be specific and measurable
+- Include functional and non-functional aspects
+- One of the examples for a booking system is for user to be able to search and book/reserve booking within a specific timeframe without any gliches.
